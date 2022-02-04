@@ -16,7 +16,7 @@ Amity University |
 2017 – 2021 | Rajasthan, India |
 Electronics and Communication
 Engineering
-CGPA: 8.26/10
+CGPA: 8.27/10
 ### HIgher Secondary School(MPC)
 Narayana Junior College |
 2015 – 2017 | Vijayawada, India |
