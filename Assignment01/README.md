@@ -14,7 +14,7 @@ English | Telugu | Hindi
 Amity University |
 2017 – 2021 | Rajasthan, India |
 Electronics and Communication
-Engineering
+Engineering |
 CGPA: 8.27/10
 ### HIgher Secondary School(MPC)
 Narayana Junior College |
