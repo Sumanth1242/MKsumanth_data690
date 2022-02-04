@@ -1,39 +1,3 @@
-![](image0.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Keerthi Sumanth Meka
 +1(667)240-9656 | mksumanth1242@gmail.com
 ## Skills
@@ -112,6 +76,8 @@ embedded C.
 - Discussed the importance and scope
 of IoT in our daily routine and learned
 the ways to implement it.
+
+![](image0.jpg)
 
 
 
